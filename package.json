@@ -1,0 +1,19 @@
+{
+  "name": "react_starter",
+  "version": "1.0.0",
+  "description": "A quick template for React Redux apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johninvictus/react_starter.git"
+  },
+  "author": "johninvictus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johninvictus/react_starter/issues"
+  },
+  "homepage": "https://github.com/johninvictus/react_starter#readme"
+}
